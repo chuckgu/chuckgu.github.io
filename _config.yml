@@ -1,0 +1,30 @@
+
+title: My Resume - Daesik Kim
+url: 'http://chuckgu.github.io'
+baseurl: '/online-cv' #change it according to your repository name
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Daesik Kim
+tagline: Deep learning Researcher
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: daesik.kim@vdotdo.com
+phone: 010 2790 6172
+linkedin: daesikkim
+github: chuckgu
+
+
+
+# Tracker
+analytics: UA-83979019-1
+#Update all the sections by editing the files inside _includes folder.
